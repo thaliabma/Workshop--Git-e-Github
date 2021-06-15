@@ -1,2 +1,2 @@
 # Workshop- Git
-Estamos aprendendo a mexer no Git e no Github
+Nome: Thalia Barbosa Marques de Almeida Curso: Ciência da Computação Cidade: Arapiraca AL
